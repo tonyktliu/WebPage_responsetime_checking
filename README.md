@@ -1,3 +1,3 @@
 # WebPage_responsetime_checking
 - This script aims to check the webpage response time from a local machine.
-- The commands are used for Windows system.
+- This script is for Windows platform.
